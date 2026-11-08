@@ -1,0 +1,23 @@
+{
+  "mark": "名",
+  "email": "hello@example.com",
+  "emailLabel": {
+    "zh": "【占位】hello@example.com",
+    "en": "[Placeholder] hello@example.com"
+  },
+  "contactTitle": {
+    "zh": "联系",
+    "en": "Contact"
+  },
+  "contactLede": {
+    "zh": "【占位】来信时写上项目、时间和你希望我回应的方式。",
+    "en": "[Placeholder] Include the project, the timing, and how you would like a reply."
+  },
+  "nav": [
+    { "id": "home", "href": "/", "zh": "首页", "en": "Home" },
+    { "id": "projects", "href": "/projects", "zh": "项目", "en": "Work" },
+    { "id": "certificates", "href": "/certificates", "zh": "证书", "en": "Certificates" },
+    { "id": "resume", "href": "/resume", "zh": "简历", "en": "Résumé" },
+    { "id": "contact", "href": "/contact", "zh": "联系", "en": "Contact" }
+  ]
+}

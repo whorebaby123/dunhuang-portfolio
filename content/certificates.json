@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "record-training",
+    "year": "2024",
+    "title": { "zh": "【占位】图版著录训练", "en": "[Placeholder] Plate-catalogue training" },
+    "issuer": { "zh": "【占位】签发机构", "en": "[Placeholder] Issuing body" },
+    "summary": {
+      "zh": "【占位】完成一组著录练习。证书原件尚未放入仓库。",
+      "en": "[Placeholder] A cataloguing exercise. The original certificate is not in the repo yet."
+    }
+  },
+  {
+    "slug": "field-note",
+    "year": "2025",
+    "title": { "zh": "【占位】现场记录说明", "en": "[Placeholder] Field-note statement" },
+    "issuer": { "zh": "【占位】合作方", "en": "[Placeholder] Partner" },
+    "summary": {
+      "zh": "【占位】说明观察是谁做的、做到哪一天。",
+      "en": "[Placeholder] States who made the observations, and through which day."
+    }
+  }
+]
