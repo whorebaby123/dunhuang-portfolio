@@ -1,0 +1,8 @@
+{
+  "title": { "zh": "简历", "en": "Résumé" },
+  "lede": {
+    "zh": "【占位】一页可以核对的经历。下载得到的是同一份 Markdown。",
+    "en": "[Placeholder] One page of experience that can be checked. The download is the same Markdown."
+  },
+  "filename": { "zh": "简历-占位.md", "en": "resume-placeholder.md" }
+}

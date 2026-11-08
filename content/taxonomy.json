@@ -1,0 +1,8 @@
+{
+  "tags": [
+    { "id": "design", "zh": "设计", "en": "Design", "home": true },
+    { "id": "research", "zh": "研究", "en": "Research", "home": true },
+    { "id": "curation", "zh": "策展", "en": "Curation", "home": true },
+    { "id": "consulting", "zh": "咨询", "en": "Consulting", "home": true }
+  ]
+}

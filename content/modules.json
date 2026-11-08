@@ -1,0 +1,60 @@
+[
+  {
+    "id": "mod_hero",
+    "type": "hero",
+    "enabled": true,
+    "label": {
+      "zh": "首屏 / 身份",
+      "en": "Hero / Identity"
+    },
+    "fields": {
+      "name": {
+        "zh": "你的名字",
+        "en": "Your Name"
+      },
+      "city": {
+        "zh": "【占位】你的城市",
+        "en": "[Placeholder] Your city"
+      },
+      "availability": {
+        "zh": "【占位】开放合作与交流",
+        "en": "[Placeholder] Open to collaboration"
+      },
+      "eyebrow": {
+        "zh": "",
+        "en": ""
+      },
+      "headline": {
+        "zh": "用证据讲述\n我看过的事\n与解决的问题。",
+        "en": "Tell, with evidence,\nwhat I have seen\nand the problems I solved."
+      },
+      "lede": {
+        "zh": "这里是一些关于我的工作经历以及我所参与的创意项目介绍。",
+        "en": "A short account of work I have done and projects I have taken part in."
+      },
+      "primaryCta": {
+        "zh": "查看项目 →",
+        "en": "View projects →"
+      },
+      "secondaryCta": {
+        "zh": "下载简历",
+        "en": "Download résumé"
+      }
+    }
+  },
+  {
+    "id": "mod_featured",
+    "type": "featured",
+    "enabled": true,
+    "label": {
+      "zh": "精选项目",
+      "en": "Selected work"
+    },
+    "fields": {
+      "title": {
+        "zh": "精选项目",
+        "en": "Selected work"
+      }
+    }
+  }
+]

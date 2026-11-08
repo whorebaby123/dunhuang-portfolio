@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "mural-plates",
+    "featured": true,
+    "year": "2024",
+    "kicker": { "zh": "记录", "en": "Record" },
+    "status": { "zh": "", "en": "" },
+    "title": { "zh": "【占位】壁画图版著录", "en": "[Placeholder] Catalogue of mural plates" },
+    "summary": {
+      "zh": "【占位】把一块壁面拆成可以引用的图版，而不是再拍一张好看的全景。",
+      "en": "[Placeholder] Break one wall into plates that can be cited, instead of another pretty overview."
+    },
+    "tags": ["research", "design"],
+    "cover": "assets/approved-mural.png",
+    "coverPosition": "68% 36%"
+  },
+  {
+    "slug": "microclimate",
+    "featured": true,
+    "year": "2025",
+    "kicker": { "zh": "现场", "en": "Field" },
+    "status": { "zh": "开源", "en": "Open source" },
+    "title": { "zh": "【占位】微环境记录", "en": "[Placeholder] Microclimate notes" },
+    "summary": {
+      "zh": "【占位】记下温度、尘和光照，让后来的人知道这组观察是在什么条件下做的。",
+      "en": "[Placeholder] Note temperature, dust, and light so a later reader knows the conditions."
+    },
+    "tags": ["research"],
+    "cover": "assets/approved-mural.png",
+    "coverPosition": "82% 58%"
+  },
+  {
+    "slug": "guide-draft",
+    "featured": true,
+    "year": "2025",
+    "kicker": { "zh": "系铃", "en": "Xiling" },
+    "status": { "zh": "", "en": "" },
+    "title": { "zh": "【占位】导览词草稿", "en": "[Placeholder] Draft of a guide script" },
+    "summary": {
+      "zh": "【占位】一段导览词：先说看得到的，再说不能确定的，不把猜测写成定论。",
+      "en": "[Placeholder] A guide script that says what is visible first, and what is still uncertain."
+    },
+    "tags": ["curation", "consulting"],
+    "cover": "assets/approved-mural.png",
+    "coverPosition": "54% 78%"
+  }
+]

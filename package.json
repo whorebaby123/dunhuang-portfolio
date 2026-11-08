@@ -1,0 +1,17 @@
+{
+  "name": "dunhuang-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.js",
+    "admin": "node admin/server.js",
+    "build": "vite build && node scripts/stamp-routes.js",
+    "preview": "vite preview --host 127.0.0.1 --port 4173",
+    "publish": "npm run build && node scripts/publish.js",
+    "test": "node --test scripts/markdown.test.js && npm run build && node scripts/verify-dist.js"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
